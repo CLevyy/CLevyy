@@ -1,7 +1,7 @@
 ### Olá! Eu sou Carlos Levy
 
 - 🔭 Sou Desenvolvedor Front-End
-- 🌱 Estudando HTML5, CSS3, JavaScript
+- 🌱 HTML5, CSS3, JavaScript
 
 <div>
   <a href="https://github.com/CLevyy">
